@@ -22,3 +22,9 @@ In this course, we are going to focus on the following learning objectives:
 - Build and train an Artificial Neural Network to perform regression.
 - Understand the difference between various regression models KPIs such as MSE, RMSE, MAE, R2, and adjusted R2.
  - Assess the performance of regression models and visualize the performance of the best model using various KPIs.
+ <br>
+
+ <img align="left" alt= "python" width="700px" src= "https://user-images.githubusercontent.com/58776067/193080914-3efe6c1f-969e-4ecc-afd5-63166dac5595.jpg" />
+ <img align="left" alt= "python" width="700px" src= "https://user-images.githubusercontent.com/58776067/193080947-fbf0c0a2-c352-451b-9c68-1e16ea62cc20.jpg" />
+ <img align="left" alt= "python" width="700px" src= "https://user-images.githubusercontent.com/58776067/193080965-7af8f0f2-9169-4b6b-b611-ebe06480a475.jpg" />
+
